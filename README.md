@@ -104,7 +104,7 @@ The simulated dataset contains information such as:
 
 > Add your dashboard screenshot here.
 
-![Dashboard](Dashboard%20Screenshot.png)
+![Dashboard](https://github.com/i-aryansharma/Excel-Data-Analysis-Project-1/blob/708535d86e6284a3e90924a5c1d0fbb4c3df751d/Dashboard%20Screenshot.png)
 
 ---
 
